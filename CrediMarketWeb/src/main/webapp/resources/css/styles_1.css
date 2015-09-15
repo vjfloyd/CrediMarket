@@ -1,0 +1,37 @@
+   .fondo{
+   	background: black;
+   }
+   .letra{
+   	fontcolor: #FFFFFF;
+   }
+   .fondobarra{
+   	background: #8BA6BA;
+   }
+
+   .login-image{
+    border: 5px solid white;
+    border-radius: 10%;
+}
+   .bg {
+    background: url('../img/fondo2.JPG') no-repeat center center;
+    position: fixed;
+    width: 100%;
+    height: 100%; 
+    top:0;
+    left:0;
+    z-index: -1;
+}
+.jumbotron {
+    margin-bottom: 0px;
+    height: 350px;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    background: transparent;
+}
+.text-blanco{
+    color: white;
+    text-shadow: 2px 2px #222;
+}
+.list-group-item.fondoSide{
+	background-color: #428bca;
+}
